@@ -2,7 +2,7 @@
 
 ![YT](./YT.jpg)
 
-YouTube Link -
+YouTube Link - https://youtu.be/lmGOQ3SRoPc
 
 This project shows how to build a classifier to classify emails as clutter or not clutter. Multiple machine learning models are developed and compared. All are built using model-based approach with the probabilistic framework [Pyro](https://pyro.ai/).
 
